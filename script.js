@@ -17,3 +17,4 @@ console.error("Error: No se pudo completar la operación")
 
 console.warn("Advertencia: Este es un comportamiento inesperado")
 
+
